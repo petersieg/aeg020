@@ -5,6 +5,12 @@ CC BY-SA
 
 ![Bild](https://github.com/petersieg/aeg020/blob/master/aeg020.png)
 
+![Bild](https://github.com/petersieg/aeg020/blob/master/A020.JPG)
+
+![Bild](https://github.com/petersieg/aeg020/blob/master/A020 inside.JPG)
+
+![Bild](https://github.com/petersieg/aeg020/blob/master/A020 chips.png)
+
 ```
 At first you will need a cable from the serial port of your PC to the A020:
 
