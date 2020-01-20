@@ -5,7 +5,7 @@ CC BY-SA
 
 ![Bild](https://github.com/petersieg/aeg020/blob/master/aeg020.png)
 
-' ' ' 
+```
 At first you will need a cable from the serial port of your PC to the A020:
 
 25p (PC) / 25p(A020):
@@ -69,4 +69,5 @@ DON`T DO SO IF YOU WANT TO KEEP THE OLD
 PROGRAMM !!!
 
 Now you can start the A020 by pressing S(Ret).
-' ' '
+```
+
